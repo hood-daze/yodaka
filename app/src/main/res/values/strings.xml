@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">よだかの星</string>
+
+    <string name="splash_caution">注意</string>
+    <string name="splash_caution_content">ゲームを行うさいは適度な休憩とることをおすすめします。</string>
+
+    <string name="start_title">よだかの星</string>
+
+    <string name="preference_file_key">com.hood.bread.yodaka</string>
+    <string name="credittext">原作:『よだかの星』 宮沢賢治 \n\nノベルゲーム:『よだかの星』\nAll produced by hood\nTwitter:@hood_daze</string>
+    <string name="endtext">『よだかの星』\n最後までプレイしていただきありがとうございました。</string>
+
+</resources>
